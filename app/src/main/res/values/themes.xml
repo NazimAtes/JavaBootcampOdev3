@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.JavaBootcampOdev3" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/butonrengi</item>
+    </style>
+
+    <style name="Theme.JavaBootcampOdev3" parent="Base.Theme.JavaBootcampOdev3" />
+</resources>
